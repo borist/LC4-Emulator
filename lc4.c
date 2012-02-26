@@ -122,7 +122,6 @@ void brzp() {
 	else
 		PC++;
 	check(PC);
-
 }
 
 void brp() {
